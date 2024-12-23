@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Sistem rekomendasi adalah teknologi yang sangat penting di era digital untuk membantu pengguna menemukan item yang relevan dari jumlah pilihan yang sangat besar. Dalam proyek ini, kami membangun sistem rekomendasi buku menggunakan dataset Book-Crossing. Dataset ini mencakup informasi tentang buku, pengguna, dan penilaian buku, menjadikannya dataset yang cocok untuk membangun sistem rekomendasi berbasis konten.
+Sistem rekomendasi adalah teknologi yang sangat penting di era digital untuk membantu pengguna menemukan item yang relevan dari jumlah pilihan yang sangat besar. Dalam proyek ini, kami membangun sistem rekomendasi buku menggunakan Book Recommendation Dataset. Dataset ini mencakup informasi tentang buku, pengguna, dan penilaian buku, menjadikannya dataset yang cocok untuk membangun sistem rekomendasi berbasis konten.
 
 Rekomendasi berbasis konten menggunakan fitur buku, seperti nama penulis, untuk menghitung kesamaan antar item. Model ini membantu pengguna menemukan buku serupa berdasarkan preferensi mereka.
 
