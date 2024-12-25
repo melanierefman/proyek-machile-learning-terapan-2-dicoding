@@ -228,18 +228,18 @@ Setelah implementasi sistem rekomendasi selesai, dilakukan pengujian menggunakan
 
 ### Top 10 Rekomendasi Buku
 
-| No. | Rekomendasi Buku                                   |
-| --- | -------------------------------------------------- |
-| 1   | Into the Land of the Unicorns (Unicorn Chronicles) |
-| 2   | The Unicorn Chronicles                             |
-| 3   | A Tale of Two Cities                               |
-| 4   | The Unicorn's Secret                               |
-| 5   | The Last Unicorn                                   |
-| 6   | The Chronicles of Narnia                           |
-| 7   | The Princess and the Unicorn                       |
-| 8   | The Unicorn in the Barn                            |
-| 9   | The Lost Unicorn                                   |
-| 10  | The Dragon and the Unicorn                         |
+| No. | Rekomendasi Buku                                                                                |
+| --- | ----------------------------------------------------------------------------------------------- |
+| 1   | My Teacher Fried My Brains (MY TEACHER BOOKS)                                                   |
+| 2   | Into the Land of the Unicorns (Unicorn Chronicles)                                              |
+| 3   | A Glory of Unicorns                                                                             |
+| 4   | Into the Land of the Unicorns (The Unicorn Chronicles, Book 1)                                  |
+| 5   | Jeremy Thatcher, Dragon Hatcher                                                                 |
+| 6   | My Teacher Fried My Brains (MY TEACHER BOOKS)                                                   |
+| 7   | SPACE BRAT (SPACE BRAT 1)                                                                       |
+| 8   | A Piece of My Mind: A Collection of Essays from the Journal of the American Medical Association |
+| 9   | Das letzte Konzert.                                                                             |
+| 10  | Sprinter (Hunter's Western Series)                                                              |
 
 ### Kesimpulan Hasil Rekomendasi
 
