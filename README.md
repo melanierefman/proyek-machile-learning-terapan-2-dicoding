@@ -241,10 +241,6 @@ Setelah implementasi sistem rekomendasi selesai, dilakukan pengujian menggunakan
 | 9   | Das letzte Konzert.                                                                             |
 | 10  | Sprinter (Hunter's Western Series)                                                              |
 
-### Kesimpulan Hasil Rekomendasi
-
-Hasil rekomendasi menunjukkan buku-buku yang memiliki kesamaan paling tinggi dengan **"Into the Land of the Unicorns (Unicorn Chronicles)"** berdasarkan **Cosine Similarity**. Buku-buku yang muncul dalam daftar ini memiliki tema atau gaya penulisan yang serupa, sehingga dapat dianggap relevan bagi pembaca yang menyukai buku tersebut. Pendekatan **Content-Based Filtering** ini memberikan rekomendasi yang berdasarkan kesamaan konten antar buku, memungkinkan pengguna untuk menemukan buku dengan tema dan penulis yang serupa.
-
 ---
 
 ## Evaluation
