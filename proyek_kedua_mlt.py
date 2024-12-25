@@ -68,17 +68,42 @@ books = pd.read_csv("Books.csv")
 ratings = pd.read_csv("Ratings.csv")
 users = pd.read_csv("Users.csv")
 
-"""Menampilkan beberapa baris awal dari masing-masing dataset untuk mendapatkan gambaran umum tentang data."""
+"""Menampilkan beberapa baris awal dari masing-masing dataset untuk mendapatkan gambaran umum tentang data.
+
+#### **Books Dataset**
+"""
 
 # Initial Data Exploration
-print("Books.csv Dataset Head:")
-books.head()
+print("Books.csv Dataset:")
+books
 
-print("Ratings.csv Dataset Head:")
-ratings.head()
+print("Missing values in Books:\n")
+books.isnull().sum()
 
-print("Users.csv Dataset Head:")
-users.head()
+print("Duplicates in Books:\n")
+books.duplicated().sum()
+
+"""#### **Ratings Dataset**"""
+
+print("Ratings.csv Dataset:")
+ratings
+
+print("Missing values in Books:\n")
+ratings.isnull().sum()
+
+print("Duplicates in Books:\n")
+ratings.duplicated().sum()
+
+"""#### **Users Dataset**"""
+
+print("Users.csv Dataset:")
+users
+
+print("Missing values in Books:\n")
+users.isnull().sum()
+
+print("Duplicates in Books:\n")
+users.duplicated().sum()
 
 """## **Univariate Exploratory Data Analysis**
 
