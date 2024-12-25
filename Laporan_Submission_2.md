@@ -36,14 +36,6 @@ Tujuan proyek dirumuskan untuk menjawab pernyataan masalah, yaitu:
 - Teknik TF-IDF digunakan untuk merepresentasikan penulis buku dalam bentuk vektor numerik.
 - Cosine similarity digunakan untuk mengukur kesamaan antar buku.
 
-## Data Understanding
-
-Dataset yang digunakan adalah [Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset). Dataset terdiri dari tiga file utama:
-
-1. **Books.csv**: Berisi informasi tentang buku seperti ISBN, judul buku, penulis, tahun penerbitan, dan penerbit.
-2. **Ratings.csv**: Berisi data penilaian pengguna terhadap buku (Book-Rating).
-3. **Users.csv**: Berisi informasi pengguna, seperti lokasi dan usia.
-
 ---
 
 ## Data Understanding
